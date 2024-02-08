@@ -1,0 +1,13 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex 307679a..711b5ef 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -4,5 +4,5 @@[m [mA web page developed using  basic HTML CSS and JAVASCRIPT using which we can[m
+ add the activities to a list that are to be done, example like "I have to go to bed by 9 O'clock"[m
+ which gonna remember you when you see your TO DO LIST.[m
+ <p>hello world</p>[m
+[31m-<p>hello world</p>[m
+[31m-<p>hello world</p>[m
+[32m+[m[32m<h1>hello</h1>[m
+[32m+[m[32m<h1>hello</h1>[m
+\ No newline at end of file[m
